@@ -1,0 +1,24 @@
+[
+    {
+        "anno_attribute_id": 1,
+        "content": "file:///C:/Users/Harsha/Downloads/sqllite-database-recovery.exe",
+        "dateAdded": 1677607578219000,
+        "expiration": 4,
+        "flags": 0,
+        "id": 1,
+        "lastModified": 1677607578219000,
+        "place_id": 20,
+        "type": 3
+    },
+    {
+        "anno_attribute_id": 2,
+        "content": "{\"state\":1,\"deleted\":false,\"endTime\":1677607584113,\"fileSize\":2191272}",
+        "dateAdded": 1677607584140000,
+        "expiration": 4,
+        "flags": 0,
+        "id": 2,
+        "lastModified": 1677607584140000,
+        "place_id": 20,
+        "type": 3
+    }
+]
