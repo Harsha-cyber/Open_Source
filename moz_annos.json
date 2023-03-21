@@ -20,5 +20,27 @@
         "lastModified": 1677607584140000,
         "place_id": 20,
         "type": 3
+    },
+    {
+        "anno_attribute_id": 1,
+        "content": "file:///C:/Users/Harsha/Downloads/DB.Browser.for.SQLite-3.12.2-win64.msi",
+        "dateAdded": 1678275090010000,
+        "expiration": 4,
+        "flags": 0,
+        "id": 3,
+        "lastModified": 1678275090010000,
+        "place_id": 29,
+        "type": 3
+    },
+    {
+        "anno_attribute_id": 2,
+        "content": "{\"state\":1,\"deleted\":false,\"endTime\":1678275124630,\"fileSize\":18038784}",
+        "dateAdded": 1678275124657000,
+        "expiration": 4,
+        "flags": 0,
+        "id": 4,
+        "lastModified": 1678275124657000,
+        "place_id": 29,
+        "type": 3
     }
 ]
